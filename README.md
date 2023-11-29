@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikitgit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Data engineering
+- 💞️ I’m looking to collaborate on bidri
 - 📫 How to reach me ...gundabalakishore@gmail.com
 
 <!---
